@@ -35,7 +35,6 @@
                 margin-left:5x;
                 margin-right:auto;
                 border-radius: 100px;
-                padding:7px;
             }
             .name{
                 text-align: left;
@@ -75,7 +74,7 @@
                 </div>
               </div>
               <div class="row">
-                  <div class="col-md-4">
+                  <div class="col-md-3">
                       <div class="first">
                     <div class="Obj">
                         <h3><u>Objective</u></h3>
@@ -103,9 +102,15 @@
                           <h6>*Machine Learning</h6>
                         <h6>*Web Development</h6>
                     </div>
+		    <div class="Strength">
+                    <h4><u>Personal Strength</u></h4>
+                    <h6>*Flexibility to work under stretch schedule.</h6>
+                    <h6>*Ability to work individually as well as in a team.</h6>
+                    <h6>*Time and Resource Management.</h6>
+                </div>
                     </div>
                 </div>
-                  <div class="col-md-8">
+                  <div class="col-md-9">
                     <div class="contacts">
                         <h3><u>Contacts</u></h3>
                    <div class="icons">
@@ -116,7 +121,7 @@
                    </div>
                </div>
                <div class="Education">
-                <h4><u>Academic Qualification</u></h4>
+                <h3><u>Academic Qualification</u></h3>
                <table class="table">
                 <thead>
                   <tr>
@@ -150,7 +155,7 @@
 
                   </div>
                   <div class="achieve">
-                    <h4><u>Activities and Achievements</u></h4>
+                    <h3><u>Activities and Achievements</u></h3>
                         <h6>*Certified for "Problem Solving through Programming in C" in NPTEL exam.</h6>
                         <h6>*Training on Machine Learning from National Institute of Industrial Training.</h6>
                         <h6>*Winner of College innovative Project competition (ICIC) for "Alcohol Detection System in car based on Arduino."</h6>
@@ -160,12 +165,7 @@
                     <h3><u>Extra-curricular Activities</u></h3>
                     <h6>Drawing,Singing,Diary Writing,Learning about new things.</h6>
                 </div>
-                <div class="Strength">
-                    <h4><u>Personal Strength</u></h4>
-                    <h6>*Flexibility to work under stretch schedule.</h6>
-                    <h6>*Ability to work individually as well as in a team.</h6>
-                    <h6>*Time and Resource Management.</h6>
-                </div>
+                
               </div>
               </div>
               </div>
