@@ -47,15 +47,13 @@
             text-align: left;
         }
         table{
-            width: auto;
+            width: 700px;
         }
         td{
             text-align: center;
-	    width:auto;
         }
         table,th,td{
             border:1px solid #808080;
-	    width:auto;
         }
         </style>
     </head>
