@@ -114,7 +114,7 @@
                    </div>
                </div>
                <div class="Education">
-                <h3><u>Academic Qualification</u></h3>
+                <h2><u>Academic Qualification</u></h2>
                <table class="table">
                 <thead>
                   <tr>
@@ -148,18 +148,18 @@
 
                   </div>
                   <div class="achieve">
-                    <h3><u>Activities and Achievements</u></h3>
+                    <h2><u>Activities and Achievements</u></h2>
                         <h6>*Certified for "Problem Solving through Programming in C" in NPTEL exam.</h6>
                         <h6>*Training on Machine Learning from National Institute of Industrial Training.</h6>
                         <h6>*Winner of College innovative Project competition (ICIC) for "Alcohol Detection System in car based on Arduino."</h6>
                         <h6>*Attended a workshop on Ethical Hacking in our college.</h6>
                 </div>
                 <div class="Extra">
-                    <h3><u>Extra-curricular Activities</u></h3>
+                    <h2><u>Extra-curricular Activities</u></h2>
                     <h5>Drawing,Singing,Diary Writing,Learning about new things.</h5>
                 </div>
                  <div class="Strength">
-                    <h3><u>Personal Strength</u></h3>
+                    <h2><u>Personal Strength</u></h2>
                     <h6>*Flexibility to work under stretch schedule.</h6>
                     <h6>*Ability to work individually as well as in a team.</h6>
                     <h6>*Time and Resource Management.</h6>
