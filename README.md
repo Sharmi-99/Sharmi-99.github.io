@@ -27,8 +27,8 @@
             }
             #image img{
                 z-index: 1;
-                width:90px;
-                height:90px;
+                width:100px;
+                height:100px;
                 position:absolute;
                 margin-top:auto;
                 display:block;
@@ -68,9 +68,9 @@
                     <img src="ten.jpg">
                 </div>
                   <div class="name">
-                <h3><strong>Sharmistha</strong> Mandal</h3>
+                <h2><strong>Sharmistha</strong> Mandal</h2>
                 <p id="underline"></p>
-                <h4 id="dept">Information Technology</h4>
+                <h3 id="dept">Information Technology</h3>
                 </div>
               </div>
               <div class="row">
@@ -107,7 +107,7 @@
                 </div>
                   <div class="col-md-9">
                     <div class="contacts">
-                        <h3><u>Contacts</u></h3>
+                        <h2><u>Contacts</u></h2>
                    <div class="icons">
                        <h6><a href="#" class="fa fa-envelope" ></a>  sharmistha.m99@gmail.com</h6>
                      <p><h6><a href="#" class="fa fa-mobile"></a>  8910899728</h6></p>
@@ -158,10 +158,10 @@
                 </div>
                 <div class="Extra">
                     <h3><u>Extra-curricular Activities</u></h3>
-                    <h6>Drawing,Singing,Diary Writing,Learning about new things.</h6>
+                    <h5>Drawing,Singing,Diary Writing,Learning about new things.</h5>
                 </div>
                  <div class="Strength">
-                    <h4><u>Personal Strength</u></h4>
+                    <h3><u>Personal Strength</u></h3>
                     <h6>*Flexibility to work under stretch schedule.</h6>
                     <h6>*Ability to work individually as well as in a team.</h6>
                     <h6>*Time and Resource Management.</h6>
