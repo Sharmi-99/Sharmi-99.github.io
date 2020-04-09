@@ -102,12 +102,7 @@
                           <h6>*Machine Learning</h6>
                         <h6>*Web Development</h6>
                     </div>
-		    <div class="Strength">
-                    <h4><u>Personal Strength</u></h4>
-                    <h6>*Flexibility to work under stretch schedule.</h6>
-                    <h6>*Ability to work individually as well as in a team.</h6>
-                    <h6>*Time and Resource Management.</h6>
-                </div>
+		   
                     </div>
                 </div>
                   <div class="col-md-9">
@@ -165,7 +160,12 @@
                     <h3><u>Extra-curricular Activities</u></h3>
                     <h6>Drawing,Singing,Diary Writing,Learning about new things.</h6>
                 </div>
-                
+                 <div class="Strength">
+                    <h4><u>Personal Strength</u></h4>
+                    <h6>*Flexibility to work under stretch schedule.</h6>
+                    <h6>*Ability to work individually as well as in a team.</h6>
+                    <h6>*Time and Resource Management.</h6>
+                </div>
               </div>
               </div>
               </div>
